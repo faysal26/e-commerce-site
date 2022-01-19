@@ -1,0 +1,31 @@
+@media (max-width:764px){
+    .link-bar{
+        margin-left: 10px;
+    }
+    .brand{
+       display: flex;
+      flex-wrap: wrap;
+    }
+
+    #circle{
+display: none;
+    }
+    #drone{
+display: none;
+    }
+    .home-page-left{
+        margin-top: 0px;
+    }
+    .home-page-right{
+        display: none;
+    }
+    .home-page{
+        margin-top: 50px;
+    }
+}
+
+@media (max-width:1158px){
+    #track-order{
+        display: none;
+    }
+}
